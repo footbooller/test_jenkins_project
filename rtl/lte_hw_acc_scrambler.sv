@@ -1,8 +1,5 @@
 `timescale 1ns / 1ps
 
-
-
-
 module lte_hw_acc_scrambler #(
     parameter IN_DATA_WIDTH = 1
 )
